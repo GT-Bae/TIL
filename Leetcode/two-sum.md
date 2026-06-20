@@ -1,7 +1,7 @@
 
 https://leetcode.com/problems/two-sum/
 
-説明
+解説
 -------------
 配列をループ処理しながら、2つの数の和がtargetと一致する場合、そのインデックスをanswerに格納し、breakでループを抜け出しました。
 
